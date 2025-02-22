@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: "Poppins", serif;
+    background-color: rgb(196, 167, 223);
+}
+:root{
+    --fsize:1rem;
+    --fsize1:1.4rem;
+    --fsize2:1.1rem;
+    --a_margin:auto;
+    --width:90%;
+}
