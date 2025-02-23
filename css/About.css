@@ -124,7 +124,7 @@ nav {
     width: 70%;
     margin: var(--a_margin);
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(150px, 0.5fr));
+    grid-template-columns: repeat(auto-fit, minmax(200px, 0.5fr));
     gap: 2.5rem;
     padding-bottom: 30px;
     border-bottom: 2px solid black;
