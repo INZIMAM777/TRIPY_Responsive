@@ -139,6 +139,10 @@
         grid-template-columns: 230px;
         height: 100%;
     }
+    .desc p {
+    padding: .5rem;
+    font-size: small;
+    }
 }
 
 @media(max-width:350px){
@@ -174,6 +178,10 @@
     .our_detail {
         grid-template-columns: 210px;
         
+    }
+    .desc p {
+    padding: .5rem;
+    font-size: small;
     }
   
 }
