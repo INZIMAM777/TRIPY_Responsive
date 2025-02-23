@@ -59,6 +59,10 @@
     .your_detail {
         width:80%;
     }
+    .desc p {
+    padding: .5rem;
+    font-size: smaller;
+    }
 }
 
 
@@ -141,7 +145,7 @@
     }
     .desc p {
     padding: .5rem;
-    font-size: small;
+    font-size: smaller;
     }
 }
 
@@ -181,7 +185,7 @@
     }
     .desc p {
     padding: .5rem;
-    font-size: small;
+    font-size: smaller;
     }
   
 }
