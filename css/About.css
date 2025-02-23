@@ -144,17 +144,16 @@ nav {
 
 .desc img{
     width:var(--width);
-    margin: var(--a_margin);
+    /* margin: var(--a_margin); */
     height: 55%;
     border: 1px solid black;
     border-radius: 10px;
     margin-top: .5rem;
 }
 
-.desc p{
+.desc p {
     padding: .5rem;
-    font-size: small;
-    
+    font-size: .8rem;
 }
 
 .H_founder{
